@@ -25,6 +25,6 @@
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CRBroughton&hide=css,html&layout=compact)](https://github.com/CRBroughton/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CRBroughton&hide=css,html&layout=compact&langs_count=6)](https://github.com/CRBroughton/github-readme-stats)
 
 <sup>Credit to [anuraghazra][anuraghazra] for github readme stats</sup>
