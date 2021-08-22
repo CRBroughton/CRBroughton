@@ -4,7 +4,7 @@
 [application]: https://github.com/CRBroughton/forager
 [anuraghazra]: https://github.com/anuraghazra/github-readme-stats
 
-### Hi there, I'm Craig, a Junior Front End Engineer working at [Tillo][workplace] 👋 
+### Hi there, I'm Craig, a Junior Front End Engineer working at [Tillo][workplace] <a href="https://crbroughton.me"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
 ---
 
