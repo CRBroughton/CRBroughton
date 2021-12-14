@@ -9,7 +9,7 @@
 ---
 
 - 👨‍💼 I'm currently working on [Forager][application]
-- 📖 I'm currently learning PHP and Laravel
+- 📖 I'm currently improving my Typescript and testing skills
 - 🎯 2021 goal: Become a valued member at [Tillo][workplace]!
 
 ---
