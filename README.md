@@ -8,9 +8,19 @@
 
 ---
 
-- 👨‍💼 I'm currently working on [Forager][application]
-- 📖 I'm currently improving my Typescript and testing skills
-- 🎯 2021 goal: Become a valued member at [Tillo][workplace]!
+<!-- - 👨‍💼 I'm currently working on [Forager][application] -->
+
+Below are my goals for this year! 
+
+
+- 2022 goals
+    - 📖 In Progress - Learn Advanced Typescript
+    - 📖 In Progress - Improve Testing Skills
+    - 📖 In Progress - Learn Prisma, Apollo-Nexus and PostgreSQL!
+    - 🎯 Todo - Learn PHP and Laravel!
+    - 🎯 Todo - Fullstack an application!
+    
+<sup>* subject to change, I like trying new things too much</sup>
 
 ---
 
