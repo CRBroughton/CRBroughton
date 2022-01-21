@@ -16,7 +16,7 @@ Below are my goals for this year!
 - 2022 goals
     - 📖 In Progress - Learn Advanced Typescript
     - 📖 In Progress - Improve Testing Skills
-    - 📖 In Progress - Learn Prisma, Apollo-Nexus and PostgreSQL!
+    - 📖 In Progress - Learn Prisma, GraphQL Nexus and PostgreSQL!
     - 🎯 Todo - Learn PHP and Laravel!
     - 🎯 Todo - Fullstack an application!
     
