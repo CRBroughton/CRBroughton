@@ -19,6 +19,7 @@ Below are my goals for this year!
     - 📖 In Progress - Learn Prisma, GraphQL Nexus and PostgreSQL
     - 📖 In Progress - Learn Mock Service Worker
     - 📖 In Progress - Learn Storybook
+    - 🎯 Todo - Build A Demo Component Library
     - 🎯 Todo - Learn PHP and Laravel
     - 🎯 Todo - Fullstack an application
     
