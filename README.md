@@ -21,6 +21,7 @@ Below are my goals for this year!
     - 🎯 Todo - Build Components Using TDD
     - 🎯 Todo - Learn [PHP](https://www.php.net/) and [Laravel](https://laravel.com/)
     - 🎯 Todo - Complete [Laravel 8 From Scratch](https://laracasts.com/series/laravel-8-from-scratch)
+    - 🎯 Todo - Complete Rust 'The Book'
     - ❌ On Hold - Learn [Storybook](https://storybook.js.org/)
     
 <sup>* subject to change, I like trying new things too much</sup>
