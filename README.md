@@ -14,14 +14,15 @@ Below are my goals for this year!
 
 
 - 2022 goals
-    - 📖 In Progress - Learn Advanced Typescript
-    - 📖 In Progress - Improve Testing Skills
-    - 📖 In Progress - Learn Prisma, GraphQL Nexus and PostgreSQL
-    - 📖 In Progress - Learn Mock Service Worker
-    - 📖 In Progress - Learn Storybook
-    - 📖 In Progress - Build A Demo Component Library
-    - 🎯 Todo - Learn PHP and Laravel
-    - 🎯 Todo - Fullstack an application
+    - ✅ Complete    - Build A [Demo Component Library](https://github.com/CRBroughton/component-lib-demo)
+    - ✅ Complete - Learn [Mock Service Worker](https://mswjs.io/)
+    - 📖 In Progress - Complete [Typescript Course](https://www.udemy.com/course/understanding-typescript/)
+    - 📖 In Progress - Build Components Using TDD
+    - 📖 In Progress - Fullstack an application
+    - 📖 In Progress - Full Stack Application with [Prisma](https://www.prisma.io/), [GraphQL Nexus](https://nexusjs.org/) and [PostgreSQL](https://www.postgresql.org/) and [Mock Service Worker](https://mswjs.io/)
+    - 🎯 Todo - Learn [PHP](https://www.php.net/) and [Laravel](https://laravel.com/)
+    - 🎯 Todo - Complete [Laravel 8 From Scratch](https://laracasts.com/series/laravel-8-from-scratch)
+    - ❌ On Hold - Learn [Storybook](https://storybook.js.org/)
     
 <sup>* subject to change, I like trying new things too much</sup>
 
