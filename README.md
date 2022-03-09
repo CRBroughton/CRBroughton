@@ -17,7 +17,6 @@ Below are my goals for this year!
     - ✅ Complete    - Build A [Demo Component Library](https://github.com/CRBroughton/component-lib-demo)
     - ✅ Complete - Learn [Mock Service Worker](https://mswjs.io/)
     - 📖 In Progress - Complete [Typescript Course](https://www.udemy.com/course/understanding-typescript/)
-    - 📖 In Progress - Fullstack an application
     - 📖 In Progress - Full Stack Application with [Prisma](https://www.prisma.io/), [GraphQL Nexus](https://nexusjs.org/) and [PostgreSQL](https://www.postgresql.org/) and [Mock Service Worker](https://mswjs.io/)
     - 🎯 Todo - Build Components Using TDD
     - 🎯 Todo - Learn [PHP](https://www.php.net/) and [Laravel](https://laravel.com/)
