@@ -14,6 +14,7 @@ Below are my goals for this year!
 
 
 - 2022 goals
+    - ✅ Complete - Build Components Using TDD
     - ✅ Complete    - Build A [Demo Component Library](https://github.com/CRBroughton/component-lib-demo)
     - ✅ Complete - Learn [Mock Service Worker](https://mswjs.io/)
     - 📖 In Progress - Complete [Typescript Course](https://www.udemy.com/course/understanding-typescript/)
@@ -21,11 +22,13 @@ Below are my goals for this year!
     and [Mock Service Worker](https://mswjs.io/)
     - 📖 In Progress [PHP](https://www.php.net/) and [Laravel](https://laravel.com/)
     - 📖 In Progress [Laravel 8 From Scratch](https://laracasts.com/series/laravel-8-from-scratch)
-    - 🎯 Todo - Build Components Using TDD
     - 🎯 Todo - Complete Rust 'The Book'
     - ❌ On Hold - Learn [Storybook](https://storybook.js.org/)
     
 <sup>* subject to change, I like trying new things too much</sup>
+
+<sup>* For a more detailed list of goals, see [Personal Development & Goals](personal-development-and-goals.md)</sup>
+
 
 ---
 
