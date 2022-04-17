@@ -2,6 +2,11 @@
 
 Completed Goals - 2022
 
+- ✅ Complete - Full Stack Application with [Prisma](https://www.prisma.io/), [GraphQL Nexus](https://nexusjs.org/) and [PostgreSQL](https://www.postgresql.org/) and [Mock Service Worker](https://mswjs.io/)
+
+    I developed a basic Reddit / Hackernews clone using the above stack. The project will be in a
+    continuous state of development.
+
 - ✅ Complete - Build A [Demo Component Library](https://github.com/CRBroughton/component-lib-demo)
 
     During the beginning of March, I investigated how to create a
