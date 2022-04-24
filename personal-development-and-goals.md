@@ -29,11 +29,13 @@ Completed Goals - 2022
 
 Goals in Progress - 2022
 
-- 📖 In Progress - Complete [Typescript Course](https://www.udemy.com/course/understanding-typescript/)
-- 📖 In Progress - [Full Stack Application](https://github.com/CRBroughton/hackernews-clone) with [Prisma](https://www.prisma.io/), [GraphQL Nexus](https://nexusjs.org/) and [PostgreSQL](https://www.postgresql.org/) 
+- ✅ Complete - Build a [Demo Component Library](https://github.com/CRBroughton/component-lib-demo)
+- ✅ Complete - Build Component Library using TDD
+- ✅ Complete - Learn [Mock Service Worker](https://mswjs.io/)
+- ✅ Complete - [Full Stack Application](https://github.com/CRBroughton/hackernews-clone) with [Prisma](https://www.prisma.io/), [GraphQL Nexus](https://nexusjs.org/) and [PostgreSQL](https://www.postgresql.org/) 
 and [Mock Service Worker](https://mswjs.io/)
-- 📖 In Progress [PHP](https://www.php.net/) and [Laravel](https://laravel.com/)
-- 📖 In Progress [Laravel 8 From Scratch](https://laracasts.com/series/laravel-8-from-scratch)
+- ✅ Complete - Complete [Typescript Course](https://www.udemy.com/course/understanding-typescript/)
+- 📖 In Progress - Complete [Laravel 8 From Scratch](https://laracasts.com/series/laravel-8-from-scratch)
 - 🎯 Todo - Complete Rust 'The Book'
 - ❌ On Hold - Learn [Storybook](https://storybook.js.org/)
     
