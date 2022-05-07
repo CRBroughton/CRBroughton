@@ -36,6 +36,7 @@ Goals in Progress - 2022
 and [Mock Service Worker](https://mswjs.io/)
 - ✅ Complete - Complete [Typescript Course](https://www.udemy.com/course/understanding-typescript/)
 - 📖 In Progress - Complete [Laravel 8 From Scratch](https://laracasts.com/series/laravel-8-from-scratch)
+- 🎯 Todo - Build a Full Stack Application using Laravel and Vue
 - 🎯 Todo - Complete Rust 'The Book'
 - ❌ On Hold - Learn [Storybook](https://storybook.js.org/)
     
