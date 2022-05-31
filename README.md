@@ -21,8 +21,8 @@ Below are my goals for this year!
     and [Mock Service Worker](https://mswjs.io/)
     - ✅ Complete - Complete [Typescript Course](https://www.udemy.com/course/understanding-typescript/)
     - 📖 In Progress - Complete [Laravel 8 From Scratch](https://laracasts.com/series/laravel-8-from-scratch)
+    - 📖 In Progress - Complete Rust 'The Book'
     - 🎯 Todo - Build a Full Stack Application using Laravel and Vue
-    - 🎯 Todo - Complete Rust 'The Book'
     - ❌ On Hold - Learn [Storybook](https://storybook.js.org/)
     
 <sup>* subject to change, I like trying new things too much</sup>
