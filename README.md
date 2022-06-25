@@ -20,9 +20,9 @@ Below are my goals for this year!
     - ✅ Complete - [Full Stack Application](https://github.com/CRBroughton/hackernews-clone) with [Prisma](https://www.prisma.io/), [GraphQL Nexus](https://nexusjs.org/) and [PostgreSQL](https://www.postgresql.org/) 
     and [Mock Service Worker](https://mswjs.io/)
     - ✅ Complete - Complete [Typescript Course](https://www.udemy.com/course/understanding-typescript/)
+    - ✅ Complete - Complete [Go Course](https://www.youtube.com/watch?v=yyUHQIec83I)
     - 📖 In Progress - Complete [Laravel 8 From Scratch](https://laracasts.com/series/laravel-8-from-scratch)
     - 📖 In Progress - Complete [Rust 'The Book'](https://doc.rust-lang.org/book/)
-    - 📖 In Progress - Complete [Go Course](https://www.youtube.com/watch?v=yyUHQIec83I)
     - 🎯 Todo - Build a Full Stack Application using Laravel and Vue
     - ❌ On Hold - Learn [Storybook](https://storybook.js.org/)
     

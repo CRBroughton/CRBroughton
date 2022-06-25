@@ -8,9 +8,9 @@ I have started working through the Laravel course.
 - 📖 Complete [Rust 'The Book'](https://doc.rust-lang.org/book/) - I have started working
 through the documentation, and have created a basic CLI application that clones frequently used repositories.
 
-- 📖 Complete [Go Course](https://www.youtube.com/watch?v=yyUHQIec83I) - I have started learning the basics of Go.
-
 Completed Goals & Achievements - 2022
+
+- ✅ Complete [Go Course](https://www.youtube.com/watch?v=yyUHQIec83I) - I have learnt the basics of Go.
 
 - ✅ Complete - Full Stack Application with [Prisma](https://www.prisma.io/), [GraphQL Nexus](https://nexusjs.org/), [PostgreSQL](https://www.postgresql.org/) and [Mock Service Worker](https://mswjs.io/)
 
@@ -45,9 +45,9 @@ Completed Goals & Achievements - 2022
 - ✅ Complete - [Full Stack Application](https://github.com/CRBroughton/hackernews-clone) with [Prisma](https://www.prisma.io/), [GraphQL Nexus](https://nexusjs.org/) and [PostgreSQL](https://www.postgresql.org/) 
 and [Mock Service Worker](https://mswjs.io/)
 - ✅ Complete - Complete [Typescript Course](https://www.udemy.com/course/understanding-typescript/)
+- ✅ Complete - Complete [Go Course](https://www.youtube.com/watch?v=yyUHQIec83I)
 - 📖 In Progress - Complete [Laravel 8 From Scratch](https://laracasts.com/series/laravel-8-from-scratch)
 - 📖 In Progress - Complete [Rust 'The Book'](https://doc.rust-lang.org/book/)
-- 📖 In Progress - Complete [Go Course](https://www.youtube.com/watch?v=yyUHQIec83I)
 - 🎯 Todo - Build a Full Stack Application using Laravel and Vue
 - ❌ On Hold - Learn [Storybook](https://storybook.js.org/)
     
