@@ -24,7 +24,7 @@ Below are my goals for this year!
     - 📖 In Progress - Complete [Laravel 8 From Scratch](https://laracasts.com/series/laravel-8-from-scratch)
     - 📖 In Progress - Complete [Rust 'The Book'](https://doc.rust-lang.org/book/)
     - 🎯 Todo - Build a Full Stack Application using Laravel and Vue
-    - ❌ On Hold - Learn [Storybook](https://storybook.js.org/)
+    - 🎯 Todo - Learn [Storybook](https://storybook.js.org/)
     
 <sup>* subject to change, I like trying new things too much</sup>
 
