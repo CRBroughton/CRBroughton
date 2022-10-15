@@ -22,7 +22,7 @@ Below are my goals for this year!
     - ✅ Complete - Complete [Typescript Course](https://www.udemy.com/course/understanding-typescript/)
     - ✅ Complete - Complete [Go Course](https://www.youtube.com/watch?v=yyUHQIec83I)
     - 📖 In Progress - Complete [Rust 'The Book'](https://doc.rust-lang.org/book/)
-    - 📖 Todo - Build a Full Stack Application using Laravel and Vue
+    - 📖 In Progress - Build a Full Stack Application using Laravel and Vue
     - 📖 In Progress - Learn [Storybook](https://storybook.js.org/)
     
 <sup>* subject to change, I like trying new things too much</sup>

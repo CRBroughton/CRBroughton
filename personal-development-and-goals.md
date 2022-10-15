@@ -52,7 +52,7 @@ and [Mock Service Worker](https://mswjs.io/)
 - ✅ Complete - Complete [Typescript Course](https://www.udemy.com/course/understanding-typescript/)
 - ✅ Complete - Complete [Go Course](https://www.youtube.com/watch?v=yyUHQIec83I)
 - 📖 In Progress - Complete [Rust 'The Book'](https://doc.rust-lang.org/book/)
-- 📖 Todo - Build a Full Stack Application using Laravel and Vue
+- 📖 In Progress - Build a Full Stack Application using Laravel and Vue
 - 📖 In Progress - Learn [Storybook](https://storybook.js.org/)
     
     
