@@ -2,7 +2,6 @@
 
 In Progress - 2022
 
-- 📖 Learn Storybook; I am now actively using Storybook to help implement a Design System and Component Library.
 
 - ~~Complete [Laravel 8 From Scratch](https://laracasts.com/series/laravel-8-from-scratch)
 I have started working through the Laravel course.~~
@@ -12,6 +11,8 @@ I have decided to simply build a Laravel application instead as a learning proce
 through the documentation, and have created a basic CLI application that clones frequently used repositories.
 
 Completed Goals & Achievements - 2022
+
+- ✅ Learn Storybook; I am now actively using Storybook to help implement a Design System and Component Library.
 
 - ✅ Complete [Go Course](https://www.youtube.com/watch?v=yyUHQIec83I) - I have learnt the basics of Go.
 
