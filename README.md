@@ -25,6 +25,7 @@
 <p align="left">
 <a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="./icons/Laravel.svg" width="36" height="36" alt="Laravel" /></a>
 <a href="https://TRPC.io/" target="_blank" rel="noreferrer"><img src="./icons/TRPC.svg" width="36" height="36" alt="TRPC" /></a>
+<a href="https://github.com/colinhacks/zod" target="_blank" rel="noreferrer"><img src="./icons/ZOD.svg" width="36" height="36" alt="ZOD" /></a>
 </p>
 
 ---
