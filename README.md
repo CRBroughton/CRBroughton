@@ -9,13 +9,13 @@
 ---
 ### Skills 
 <p align="left">
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" width="36" height="36" alt="Typescript" /></a>
-<a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue" /></a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express.svg" width="36" height="36" alt="Express" /></a>
-<a href="https://prisma.io" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/prisma/presskit/main/Assets/Prisma-LightSymbol.svg" width="36" height="36" alt="Prisma" /></a>
-<a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" /></a>
-<a href="https://nexusjs.org/" target="_blank" rel="noreferrer"><img src="https://i.imgur.com/Y5BgDGl.png" width="36" height="36" alt="GraphQL Nexus" /></a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="./icons/TS.svg" width="36" height="36" alt="Typescript" /></a>
+<a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="./icons/Vue.svg" width="36" height="36" alt="Vue" /></a>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="./icons/Tailwind.svg" width="36" height="36" alt="TailwindCSS" /></a>
+<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="./icons/Express.svg" width="36" height="36" alt="Express" /></a>
+<a href="https://prisma.io" target="_blank" rel="noreferrer"><img src="./icons/Prisma.svg" width="36" height="36" alt="Prisma" /></a>
+<a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="./icons/GraphQL.svg" width="36" height="36" alt="GraphQL" /></a>
+<a href="https://nexusjs.org/" target="_blank" rel="noreferrer"><img src="./icons/Nexus.png" width="36" height="36" alt="GraphQL Nexus" /></a>
 </p>
 
 ---
@@ -23,7 +23,7 @@
 ### Learning
 
 <p align="left">
-<a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Laravel" /></a></p>
+<a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="./icons/Laravel.svg" width="36" height="36" alt="Laravel" /></a></p>
 
 ---
 <!-- - 👨‍💼 I'm currently working on [Forager][application] -->
