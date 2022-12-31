@@ -23,7 +23,9 @@
 ### 🧠 Learning
 
 <p align="left">
-<a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="./icons/Laravel.svg" width="36" height="36" alt="Laravel" /></a></p>
+<a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="./icons/Laravel.svg" width="36" height="36" alt="Laravel" /></a>
+<a href="https://TRPC.io/" target="_blank" rel="noreferrer"><img src="./icons/TRPC.svg" width="36" height="36" alt="TRPC" /></a>
+</p>
 
 ---
 <!-- - 👨‍💼 I'm currently working on [Forager][application] -->
