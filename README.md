@@ -23,7 +23,7 @@
 ### Learning
 
 <p align="left">
-<a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="GraphQL" /></a></p>
+<a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Laravel" /></a></p>
 
 ---
 <!-- - 👨‍💼 I'm currently working on [Forager][application] -->
