@@ -33,16 +33,11 @@
 
 ### 🚀 Goals
 
-- ✅ Complete - Build a [Demo Component Library](https://github.com/CRBroughton/component-lib-demo)
-- ✅ Complete - Build Component Library using TDD
-- ✅ Complete - Learn [Mock Service Worker](https://mswjs.io/)
-- ✅ Complete - [Full Stack Application](https://github.com/CRBroughton/hackernews-clone) with [Prisma](https://www.prisma.io/), [GraphQL Nexus](https://nexusjs.org/) and [PostgreSQL](https://www.postgresql.org/) 
-and [Mock Service Worker](https://mswjs.io/)
-- ✅ Complete - Complete [Typescript Course](https://www.udemy.com/course/understanding-typescript/)
-- ✅ Complete - Complete [Go Course](https://www.youtube.com/watch?v=yyUHQIec83I)
-- ✅ Complete - Learn [Storybook](https://storybook.js.org/)
-- 📖 In Progress - Complete [Rust 'The Book'](https://doc.rust-lang.org/book/)
+- 🎯 Todo - Investigate potential GraphQL API use-case
+- 🎯 Todo - Build a weather app in Rust
+- 📖 In Progress - Build real-time notification system with Websockets
 - 📖 In Progress - Build a Full Stack Application using Laravel and Vue
+- 📖 In Progress - Complete [Rust 'The Book'](https://doc.rust-lang.org/book/)
     
 <sup>* subject to change, I like trying new things too much</sup>
 

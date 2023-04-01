@@ -1,14 +1,39 @@
 # Personal Development & Goals
 
-In Progress - 2022
+Completed Goals & Achievement - 2023
 
+- 📖 Complete [V3](https://v3.cbroughton.me) - I have created a meta-framework/template
+for Nuxt & Vue, which is inspired by [T3](https://t3.gg). This framework helps to provide a full
+end-to-end type-safe experience.
+
+In Progress - 2023
+
+- 📖 Complete - Build real-time notification system with Websockets - To better enable
+updates to our end users, I will create a real-time notification system using Websockets.
+Initially this implementation will be specific to one domain, however the intention is to
+provide site-wide real-time notifications for a variety of reports a given end-user
+may wish to recieve and act upon.
 
 - ~~Complete [Laravel 8 From Scratch](https://laracasts.com/series/laravel-8-from-scratch)
 I have started working through the Laravel course.~~
 I have decided to simply build a Laravel application instead as a learning process.
 
 - 📖 Complete [Rust 'The Book'](https://doc.rust-lang.org/book/) - I have started working
-through the documentation, and have created a basic CLI application that clones frequently used repositories.
+through the documentation, and have created a basic CLI application that clones frequently used repositories. I have decided to start this again, however I'm now using the rustlings
+repository to guide my progress alongside The Book.
+
+
+### 🚀 Goals Overview - 2023
+
+- 🎯 Todo - Build real-time notification system with Websockets
+- 🎯 Todo - Investigate potential GraphQL API use-case
+- 🎯 Todo - Build a weather app in Rust
+- 📖 In Progress - Build real-time notification system with Websockets
+- 📖 In Progress - Build a Full Stack Application using Laravel and Vue
+- 📖 In Progress - Complete [Rust 'The Book'](https://doc.rust-lang.org/book/)
+
+
+# 2022
 
 Completed Goals & Achievements - 2022
 
@@ -43,7 +68,7 @@ Completed Goals & Achievements - 2022
     have implemented it into my [Hackernews Clone](https://github.com/CRBroughton/hackernews-clone). I have used the knowledge to help convert old AJAX responses at work to use Mock Service Worker instead.
 <br></br>
 
-## Goals Overview - 2022
+### 🚀 Goals Overview - 2022
 
 - ✅ Complete - Build a [Demo Component Library](https://github.com/CRBroughton/component-lib-demo)
 - ✅ Complete - Build Component Library using TDD
@@ -52,9 +77,6 @@ Completed Goals & Achievements - 2022
 and [Mock Service Worker](https://mswjs.io/)
 - ✅ Complete - Complete [Typescript Course](https://www.udemy.com/course/understanding-typescript/)
 - ✅ Complete - Complete [Go Course](https://www.youtube.com/watch?v=yyUHQIec83I)
+- ✅ Complete - Learn [Storybook](https://storybook.js.org/)
 - 📖 In Progress - Complete [Rust 'The Book'](https://doc.rust-lang.org/book/)
 - 📖 In Progress - Build a Full Stack Application using Laravel and Vue
-- 📖 In Progress - Learn [Storybook](https://storybook.js.org/)
-    
-    
-<sup>* subject to change, I like trying new things too much</sup>
