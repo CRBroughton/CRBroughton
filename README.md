@@ -38,6 +38,7 @@
 - 📖 In Progress - Build real-time notification system with Websockets
 - 📖 In Progress - Build a Full Stack Application using Laravel and Vue
 - 📖 In Progress - Complete [Rust 'The Book'](https://doc.rust-lang.org/book/)
+- 📖 In Progress - Create a personalised 'Startpage'
     
 <sup>* subject to change, I like trying new things too much</sup>
 
