@@ -17,6 +17,7 @@ may wish to recieve and act upon.
 - ~~Complete [Laravel 8 From Scratch](https://laracasts.com/series/laravel-8-from-scratch)
 I have started working through the Laravel course.~~
 I have decided to simply build a Laravel application instead as a learning process.
+- Create a TUI for the regression testing program, BackstopJS
 
 - 📖 Complete [Rust 'The Book'](https://doc.rust-lang.org/book/) - I have started working
 through the documentation, and have created a basic CLI application that clones frequently used repositories. I have decided to start this again, however I'm now using the rustlings

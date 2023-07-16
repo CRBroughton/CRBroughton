@@ -3,8 +3,17 @@
 [linkedin]: https://www.linkedin.com/in/craig-broughton-5a2809189/
 [application]: https://github.com/CRBroughton/forager
 [anuraghazra]: https://github.com/anuraghazra/github-readme-stats
+[backstop]: https://github.com/garris/BackstopJS
+[interpreterbook]: https://interpreterbook.com/
 
 ### Hi there, I'm Craig, a Junior Front End Engineer working at [Tillo][workplace] <a href="https://crbroughton.me"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px" alt="waving hand"></a>
+
+### I'm currently:
+- Building real-time notification systems at [Tillo][workplace] using Websockets and TypeScript
+- Creating a TUI for [BackstopJS][backstop], an automated
+visual regression testing tool
+- Contributing to [Tillo's][workplace] upcoming Design System
+- Learning about interpreters by reading through [Writing An Interpreter In Go][interpreterbook]
 
 ---
 ### 💪 Skills 
@@ -39,7 +48,8 @@
 - 📖 In Progress - Build real-time notification system with Websockets
 - 📖 In Progress - Build a Full Stack Application using Laravel and Vue
 - 📖 In Progress - Complete [Rust 'The Book'](https://doc.rust-lang.org/book/)
-- 📖 In Progress - Create a personalised 'Startpage'
+- 📖 In Progress - Create a TUI application for [BackstopJS][backstop]
+- 📖 In Progress - Read through [Writing An Interpreter In Go][interpreterbook]
     
 <sup>* subject to change, I like trying new things too much</sup>
 
@@ -49,6 +59,8 @@
 ---
 
 ### 💬 Contact
+
+Want to contact me? The best ways are:
 
 - [Linkedin][linkedin]
 - [Email][email]
