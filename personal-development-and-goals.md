@@ -2,6 +2,8 @@
 
 Completed Goals & Achievement - 2023
 
+- 📖 Complete - Successfully migrated Tillo's existing bundler from Webpack to Vite. This work involved removing existing dependencies and installing new dependencies, whilst ensuring our existing MPA continues to function as expected. This PR was significantly large and required collaboration with senior engineers to ensure this changes were correct and had no negative impacts to our application. As part of this migration, I also successfully fixed a long standing compilation issue we were facing, where every change to the front-end erroneously created newly compiled JavaScript bundles.
+
 - 📖 Complete [V3](https://v3.cbroughton.me) - I have created a meta-framework/template
 for Nuxt & Vue, which is inspired by [T3](https://t3.gg). This framework helps to provide a full
 end-to-end type-safe experience.
