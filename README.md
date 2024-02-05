@@ -9,11 +9,9 @@
 ### Hi there, I'm Craig, a Front End Engineer working at [Tillo][workplace] <a href="https://crbroughton.me"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px" alt="waving hand"></a>
 
 ### I'm currently:
-- Creating [Forager](https://github.com/crbroughton/forager/tree/V2-feature-branch), an application for mapping publicly accessible foods
-- Building real-time notification systems at [Tillo][workplace] using Websockets and TypeScript
-- Creating a TUI for [BackstopJS][backstop], an automated
-visual regression testing tool
-- Contributing to [Tillo's][workplace] upcoming Design System
+- Creating [Forager](https://github.com/crbroughton/forager), an application for mapping publicly accessible foods
+- Contributing to [Tillo's][workplace] upcoming Design System and Component Library
+- Building Regress (coming soon), a visualisation tool for large asset repositories 
 - Learning about interpreters by reading through [Writing An Interpreter In Go][interpreterbook]
 
 ---
