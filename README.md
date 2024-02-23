@@ -42,12 +42,7 @@
 
 ### 🚀 Goals
 
-- 🎯 Todo - Investigate potential GraphQL API use-case
-- 🎯 Todo - Build a weather app in Rust
-- 📖 In Progress - Build real-time notification system with Websockets
-- 📖 In Progress - Build a Full Stack Application using Laravel and Vue
-- 📖 In Progress - Complete [Rust 'The Book'](https://doc.rust-lang.org/book/)
-- 📖 In Progress - Create a TUI application for [BackstopJS][backstop]
+- 📖 In Progress - Release Regress 1.0
 - 📖 In Progress - Read through [Writing An Interpreter In Go][interpreterbook]
     
 <sup>* subject to change, I like trying new things too much</sup>
