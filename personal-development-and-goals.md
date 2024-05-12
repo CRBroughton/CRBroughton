@@ -1,6 +1,24 @@
 # Personal Development & Goals
 
-Completed Goals & Achievement - 2023
+- 📖 In Progress - Building Sibyl, a type-safe query builder,
+written in TypeScript.
+- 📖 In Progress - Building Regress, a visual regression testing
+application for image repositories.
+
+Completed Goals & Achievements - 2024
+
+- 📖 Complete - Created a custom TypeScript testing library,
+https://github.com/CRBroughton/ts-test-utils that can test Typescript
+types.
+
+- 📖 Complete - One of the core contributors to the [International
+Payments](https://www.tillo.io/blog/introducing-international-payments-tillos-real-time-fx-tool) feature at Tillo. I built both the user and internal facing UIs using Vue and TypeScrtipt, as well as the back-end page endpoints in Laravel and PHP.
+- 📖 Complete - Overhauled the [Tillo API Documentation site](https://tillo.tech) using Vitepress.
+- 📖 Complete - Wrote the Nuxt Modular Architecture RFC for Tillo
+to re-imagine how front-ends might be developed using Nuxt and Nuxt
+Modules.
+
+Completed Goals & Achievements - 2023
 
 - 📖 Complete - I have been promoted from a junior role to Front-end Engineer ✅
 
@@ -31,7 +49,7 @@ repository to guide my progress alongside The Book.
 ### 🚀 Goals Overview - 2023
 
 - 🎯 Todo - Build real-time notification system with Websockets
-- 🎯 Todo - Investigate potential GraphQL API use-case
+- 📖 Complete - Investigate potential GraphQL API use-case
 - 🎯 Todo - Build a weather app in Rust
 - 📖 In Progress - Build real-time notification system with Websockets
 - 📖 In Progress - Build a Full Stack Application using Laravel and Vue
