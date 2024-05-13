@@ -10,7 +10,7 @@
 
 ### I'm currently:
 - Creating [Forager](https://github.com/crbroughton/forager), an application for mapping publicly accessible foods
-- Contributing to [Tillo's][workplace] upcoming Design System and Component Library
+- Mentoring engineers at [Tillo][workplace], across various teams to level-up front-end knowledge
 - Building Regress (coming soon), a visualisation tool for large asset repositories 
 - Learning about interpreters by reading through [Writing An Interpreter In Go][interpreterbook]
 
