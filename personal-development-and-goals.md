@@ -4,6 +4,8 @@
 written in TypeScript.
 - 📖 In Progress - Building Regress, a visual regression testing
 application for image repositories.
+- 📖 In Progress - Continuing with mentoring across the buisness,
+as well as more interactive front-end focused workshops.
 
 Completed Goals & Achievements - 2024
 
@@ -21,6 +23,11 @@ Modules.
 Completed Goals & Achievements - 2023
 
 - 📖 Complete - I have been promoted from a junior role to Front-end Engineer ✅
+- 📖 Complete - Ran various interactive workshops, focusing on an introduction to front-end deelopment at Tillo.
+- 📖 Complete - Mentored various engineers across multiple teams
+to level-up their front-end skills, enabling them to become full-stack
+contributors to Tillo's codebases. This has enabled other teams to
+successfully deliver their OKR's.
 
 - 📖 Complete - Successfully migrated Tillo's existing bundler from Webpack to Vite. This work involved removing existing dependencies and installing new dependencies, whilst ensuring our existing MPA continues to function as expected. This PR was significantly large and required collaboration with senior engineers to ensure this changes were correct and had no negative impacts to our application. As part of this migration, I also successfully fixed a long standing compilation issue we were facing, where every change to the front-end erroneously created newly compiled JavaScript bundles.
 
