@@ -19,6 +19,10 @@ Payments](https://www.tillo.io/blog/introducing-international-payments-tillos-re
 - 📖 Complete - Wrote the Nuxt Modular Architecture RFC for Tillo
 to re-imagine how front-ends might be developed using Nuxt and Nuxt
 Modules.
+- 📖 Complete - Conducted interviews for senior and lead technical
+positions.
+- 📖 Complete - Rewrote and modernised all of Tillo's internal documentation
+and onboarding guide for front-end development.
 
 Completed Goals & Achievements - 2023
 
