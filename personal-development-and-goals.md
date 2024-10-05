@@ -1,8 +1,37 @@
 # Personal Development & Goals
 
-Completed Goals & Achievement - 2023
+- 📖 In Progress - Building Sibyl, a type-safe query builder,
+written in TypeScript.
+- 📖 In Progress - Building Regress, a visual regression testing
+application for image repositories.
+- 📖 In Progress - Continuing with mentoring across the buisness,
+as well as more interactive front-end focused workshops.
+
+Completed Goals & Achievements - 2024
+
+- 📖 Complete - Created a custom TypeScript testing library,
+https://github.com/CRBroughton/ts-test-utils that can test Typescript
+types.
+
+- 📖 Complete - One of the core contributors to the [International
+Payments](https://www.tillo.io/blog/introducing-international-payments-tillos-real-time-fx-tool) feature at Tillo. I built both the user and internal facing UIs using Vue and TypeScrtipt, as well as the back-end page endpoints in Laravel and PHP.
+- 📖 Complete - Overhauled the [Tillo API Documentation site](https://tillo.tech) using Vitepress.
+- 📖 Complete - Wrote the Nuxt Modular Architecture RFC for Tillo
+to re-imagine how front-ends might be developed using Nuxt and Nuxt
+Modules.
+- 📖 Complete - Conducted interviews for senior and lead technical
+positions.
+- 📖 Complete - Rewrote and modernised all of Tillo's internal documentation
+and onboarding guide for front-end development.
+
+Completed Goals & Achievements - 2023
 
 - 📖 Complete - I have been promoted from a junior role to Front-end Engineer ✅
+- 📖 Complete - Ran various interactive workshops, focusing on an introduction to front-end deelopment at Tillo.
+- 📖 Complete - Mentored various engineers across multiple teams
+to level-up their front-end skills, enabling them to become full-stack
+contributors to Tillo's codebases. This has enabled other teams to
+successfully deliver their OKR's.
 
 - 📖 Complete - Successfully migrated Tillo's existing bundler from Webpack to Vite. This work involved removing existing dependencies and installing new dependencies, whilst ensuring our existing MPA continues to function as expected. This PR was significantly large and required collaboration with senior engineers to ensure this changes were correct and had no negative impacts to our application. As part of this migration, I also successfully fixed a long standing compilation issue we were facing, where every change to the front-end erroneously created newly compiled JavaScript bundles.
 
@@ -31,7 +60,7 @@ repository to guide my progress alongside The Book.
 ### 🚀 Goals Overview - 2023
 
 - 🎯 Todo - Build real-time notification system with Websockets
-- 🎯 Todo - Investigate potential GraphQL API use-case
+- 📖 Complete - Investigate potential GraphQL API use-case
 - 🎯 Todo - Build a weather app in Rust
 - 📖 In Progress - Build real-time notification system with Websockets
 - 📖 In Progress - Build a Full Stack Application using Laravel and Vue
