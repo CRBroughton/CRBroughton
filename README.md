@@ -9,6 +9,7 @@
 ### Hi there, I'm Craig, a Senior Front End Engineer working at [Tillo][workplace] <a href="https://crbroughton.me"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px" alt="waving hand"></a>
 
 ### I'm currently:
+- Building and reimagining Tillos front end architecture with modular and domain driven design
 - Creating [Forager](https://github.com/crbroughton/forager), an application for mapping publicly accessible foods
 - Mentoring engineers at [Tillo][workplace] across various teams to level-up front-end knowledge
 - Building Regress (coming soon), a visualisation tool for large asset repositories 
