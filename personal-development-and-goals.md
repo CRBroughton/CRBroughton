@@ -23,6 +23,7 @@ Modules.
 positions.
 - 📖 Complete - Rewrote and modernised all of Tillo's internal documentation
 and onboarding guide for front-end development.
+- 📖 Complete - Presented at TilloTech 2024 - A Voyage Through Front End Development. This talk was about design tokens, components and component composition - https://crbroughton.me/talks/voyage/
 
 Completed Goals & Achievements - 2023
 
